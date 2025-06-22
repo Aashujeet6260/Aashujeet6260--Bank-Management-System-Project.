@@ -1,11 +1,6 @@
 # Aashujeet6260--Bank-Management-System-Project.
 
-
-Certainly! Here's a clean, professional `README.md` section for your **Bank Management System in C++** project, formatted for GitHub:
-
----
-
-````markdown
+markdown
 # 🏦 Bank Management System (C++)
 
 A console-based **Bank Management System** built using **Object-Oriented Programming (OOP)** principles in **C++**. This beginner-level project allows users to create and manage bank accounts with functionalities like account creation, deposit, withdrawal, and balance enquiry using a simple menu-driven interface.
@@ -42,28 +37,22 @@ A console-based **Bank Management System** built using **Object-Oriented Program
 ### Steps
 
 1. **Clone the repository**
-
-   ```bash
+bash
    git clone https://github.com/yourusername/bank-management-system-cpp.git
    cd bank-management-system-cpp
-````
 
 2. **Compile the program**
 
-   ```bash
-   g++ bank_management.cpp -o bank_management
-   ```
 
+   g++ bank_management.cpp -o bank_management
 3. **Run the executable**
 
-   ```bash
+   bash
    ./bank_management     # On Unix/Linux/Mac
    bank_management.exe   # On Windows (or just double-click the executable)
-   ```
+   
 
 ## 📸 Sample Output
-
-```
 === 🏦 Bank Management System ===
 1. Create Account
 2. Deposit Money
@@ -101,5 +90,5 @@ Feel free to ⭐ star this repo if you find it helpful!
 
 ---
 
-Replace `yourusername` in the `git clone` URL with your actual GitHub username or repo link. Let me know if you want to add screenshots, licensing text, or a separate section for contributing!
-```
+![Screenshot (147)](https://github.com/user-attachments/assets/db125cf1-d549-4a1d-81f3-767498499632)
+
